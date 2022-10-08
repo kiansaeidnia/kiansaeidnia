@@ -1,9 +1,7 @@
 # Hi I'm Kian
 
-- I am 16
 - I live in Australia
-- I am a student
-- I am self tought
+- I love learning
 - I love typescript and web development
 
 ### GitHub Stats
